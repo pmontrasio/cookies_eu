@@ -1,8 +1,12 @@
 # CookiesEu
 
-This fork is a workaround to be able to include jquery directly in the html. See https://github.com/infinum/cookies_eu/issues/19 for the details.
+## Warning
+
+This repository is a fork. It's a workaround to be able to include jquery directly in the html. See https://github.com/infinum/cookies_eu/issues/19 for the details.
 
 ***Do not use this code. Use the original gem at https://github.com/infinum/cookies_eu/***
+
+## Original README:
 
 Gem to add cookie consent to rails application
 
